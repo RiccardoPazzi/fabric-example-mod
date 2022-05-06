@@ -6,5 +6,5 @@ All of this is done through decompilation and deobfuscation of the .jar executab
 
  - Auto fishing
  - Flying inside vehicles e.g. boat
-![](https://imgur.com/a/js0SLw3)
+[![Flying](https://i.postimg.cc/8cf71VXx/2022-05-06-21-54-09.png)](https://postimg.cc/ctZxmPSc)
 > Written with [StackEdit](https://stackedit.io/).
